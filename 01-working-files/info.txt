@@ -1,0 +1,3 @@
+Bitte legen Sie hier alle Projektrelevanten Files (Assets, Codes, Libraries) ab. 
+Achten Sie darauf, nichts Unnötiges zu committen. 
+Die Subfolderstruktur ist Ihnen überlassen. 
