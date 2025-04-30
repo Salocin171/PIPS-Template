@@ -5,10 +5,11 @@ Befüllen Sie zur erfolgreichen Abgabe die folgenden Punkte in README.md
 
 | Vorname                         | Name                         | Matrikelnummer |
 |---------------------------------|------------------------------|----------------|
-| Vorname-Teilnehmer1-Platzhalter | Name-Teilnehmer1-Platzhalter | 12345          |
-| Vorname-Teilnehmer2-Platzhalter | Name-Teilnehmer2-Platzhalter | 12345          |
-| Vorname-Teilnehmer3-Platzhalter | Name-Teilnehmer2-Platzhalter | 12345          |
-| Vorname-Teilnehmer4-Platzhalter | Name-Teilnehmer2-Platzhalter | 12345          |
+| Marvin | Fink| 83270          |
+| Nicolas| Bohn | 85595        |
+| Jasmin| Rose | 12345          |
+| Lena| Name-Teilnehmer2-Platzhalter | 12345          |
+| Steffanie | Name-Teilnehmer2-Platzhalter | 12345          |
 
 ### Tools + SDKs etc. used
 
