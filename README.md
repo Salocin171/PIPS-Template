@@ -31,7 +31,7 @@ Im Hauptspiel werden den Teams verschiedene Nachrichtenbilder präsentiert. Die 
 
 ## Teaser Video 
 
-
+https://youtu.be/L6sPcAemzd8
 
 ### Kurzanleitung
 
