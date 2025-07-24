@@ -33,7 +33,7 @@ Diese `README.md` Datei führt dich durch die Schritte, um das Spiel in Unity ei
 
 Bevor du beginnst, stelle sicher, dass du Folgendes installiert hast:
 
-* **Unity Hub & Unity Editor:** Empfohlen ist Unity 2021.3.x LTS oder neuer.
+* **Unity Hub & Unity Editor:** Empfohlen ist Unity 2019.2.x LTS.
 * **Azure Kinect SDK:** Du benötigst die Treiber und das SDK für deine Azure Kinect Kamera. Installiere es von der offiziellen Microsoft-Website.
 * **Azure Kinect Body Tracking SDK:** Ebenfalls von der offiziellen Microsoft-Website herunterladen und installieren.
 * **Visual Studio (mit Unity-Entwicklungslast):** Für die Bearbeitung der C#-Skripte.
