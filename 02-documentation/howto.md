@@ -38,6 +38,8 @@ Bevor du beginnst, stelle sicher, dass du Folgendes installiert hast:
 * **Azure Kinect Body Tracking SDK:** Ebenfalls von der offiziellen Microsoft-Website herunterladen und installieren. https://www.microsoft.com/en-eg/download/details.aspx?id=102901
 * **Visual Studio (mit Unity-Entwicklungslast):** Für die Bearbeitung der C#-Skripte.
 * **Text Mesh Pro:** Normalerweise in Unity enthalten, aber falls nicht, importiere es über `Window > TextMeshPro > Import TMP Essential Resources`.
+
+
 https://www.youtube.com/watch?v=PGsxP6Yoq9I&ab_channel=Corrie
 ---
 
