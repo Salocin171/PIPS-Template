@@ -49,6 +49,6 @@ Abstimmung: Im Hauptspiel stimmen die Spieler über die angezeigten Nachrichten 
     │   README.md // Sie befinden sich hier
     │
     ├───01-working-files // alle projektrelevanten Files (Assets, Codes, Libraries). Achten Sie darauf nichts unnötiges zu Committen. Die Subfolder Struktur ist ihnen überlassen. Bitte wie hier mit Anmerkungen versehen.
-    └───02-documentation // Bilder & Grafiken vom Aufbau
+    └───02-documentation // Bilder & Grafiken vom Aufbau, sowie eine Readme zum einstellen von unity
 ```
 
