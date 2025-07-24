@@ -34,11 +34,11 @@ Diese `README.md` Datei führt dich durch die Schritte, um das Spiel in Unity ei
 Bevor du beginnst, stelle sicher, dass du Folgendes installiert hast:
 
 * **Unity Hub & Unity Editor:** Empfohlen ist Unity 2019.2.x LTS.
-* **Azure Kinect SDK:** Du benötigst die Treiber und das SDK für deine Azure Kinect Kamera. Installiere es von der offiziellen Microsoft-Website.
-* **Azure Kinect Body Tracking SDK:** Ebenfalls von der offiziellen Microsoft-Website herunterladen und installieren.
+* **Azure Kinect SDK:** Du benötigst die Treiber und das SDK für deine Azure Kinect Kamera. Installiere es von der offiziellen Microsoft-Website. https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/usage.md
+* **Azure Kinect Body Tracking SDK:** Ebenfalls von der offiziellen Microsoft-Website herunterladen und installieren. https://www.microsoft.com/en-eg/download/details.aspx?id=102901
 * **Visual Studio (mit Unity-Entwicklungslast):** Für die Bearbeitung der C#-Skripte.
 * **Text Mesh Pro:** Normalerweise in Unity enthalten, aber falls nicht, importiere es über `Window > TextMeshPro > Import TMP Essential Resources`.
-
+https://www.youtube.com/watch?v=PGsxP6Yoq9I&ab_channel=Corrie
 ---
 
 ## 2. Projekt einrichten
